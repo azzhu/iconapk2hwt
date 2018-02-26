@@ -1,0 +1,95 @@
+# create by bigzhu
+# qq:228812066
+# 2018.2.24
+
+############
+#
+# 如果图标包中有自己喜欢的应用图标但是没有被转换到hwt中，可以自己在下面添加代码
+#
+# 格式：
+# '应用名''英文逗号''图标包中应用图标文件名''英文逗号''应用包名'
+# 其中：
+# '应用名'主要为自己看的时候做区别，可以随意写；
+# '图标包中应用图标文件名'可以解压apk文件在'.apk/res/drawable-nodpi-v4/'目录中找到；
+# '应用包名'可以在酷安市场搜索相关应用，在应用详细信息中找到。
+#
+############
+
+
+#系统
+应用市场,huawei_hiapp,com.huawei.appmarket
+时钟,clock,com.android.deskclock
+文件管理,huawei_files,com.huawei.hidisk
+手机管家,safecenter,com.huawei.systemmanager
+计算器,calculator,com.android.calculator2
+天气,weather,com.huawei.android.totemweather
+相机,huawei_camera,com.huawei.camera
+图库,huawei_gallery,com.android.gallery3d
+设置,settings,com.android.settings
+电话,phone,com.android.contacts.activities.DialtactsActivity
+联系人,contacts,com.android.contacts
+信息,messages,com.android.mms
+主题,huawei_themes,com.huawei.android.thememanager
+音乐,huawei_music,com.android.mediacenter
+日历,calendar,com.android.calendar
+备忘录,huawei_notepad,com.example.android.notepad
+语音助手
+指南针,huawei_compass,com.huawei.compass
+手电筒
+备份,huawei_backup,com.huawei.KoBackup
+钱包
+收音机,huawei_fm_radio,com.huawei.android.FMRadio
+下载
+录音机
+游戏中心,huawei_higame,com.huawei.gamebox.global
+浏览器,browser,com.huawei.browser
+
+
+#腾讯全家桶
+QQ,qq,com.tencent.mobileqq
+TIM,tim,com.tencent.tim
+微信,wechat,com.tencent.mm
+qq浏览器,qqbrowser,com.tencent.mtt
+微信读书,weread,com.tencent.weread
+腾讯翻译君
+腾讯体育,qqsports,com.tencent.qqsports
+
+
+#阿里全家桶
+钉钉,ding_talk,com.alibaba.android.rimet
+支付宝,alipay,com.eg.android.AlipayGphone
+淘宝,taobao,com.taobao.taobao
+
+
+#百度全家桶
+百度输入法
+
+
+#其它
+喜马拉雅,ximalaya,com.ximalaya.ting.android
+网易云音乐,netease_music,com.netease.cloudmusic
+知乎,zhihu,com.zhihu.android
+高德地图,amap,com.autonavi.minimap
+今日头条,jinritoutiao,com.ss.android.article.news
+抖音,douyin,com.ss.android.ugc.aweme
+酷安,google_play_store,com.coolapk.market
+快图,
+自如,
+多点
+wps,wps_office,cn.wps.moffice_eng
+链家
+x浏览器,x_browser,com.mmbox.xbrowser
+智行火车票,yipiaozhixing,com.yipiao
+网易云课堂,netease_education,com.netease.edu.study
+re管理器,root_explorer,com.speedsoftware.rootexplorer
+ofo,ofo_bicycle,so.ofo.labofo
+同花顺,hexin_plat,com.hexin.plat.android
+WiFi万能钥匙,wifi_master_key,com.snda.wifilocating
+美团,meituan,com.sankuai.meituan
+快方送药
+扫描全能王,
+掌上生活
+驾考宝典,jiakaobaodian,com.handsgo.jiakao.android
+智联招聘,zhilian_zhaopin,com.zhaopin.social
+boss直聘,boss_zhipin,com.hpbr.bosszhipin
+emore,emore,com.caij.emore
